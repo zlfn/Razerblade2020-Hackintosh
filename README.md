@@ -2,7 +2,7 @@
 ![BigSur](BigSur.png)
 
 Hackintosh guide for Razerblade 2020 model (includes base, advanced, pro)<br>
-If you have question, You can open the issue. (But I'm beginner so It's not very helpful)<br>
+If you have a question, You can open the issue. (But I'm a beginner so It's not very helpful)<br>
 And content additions and corrections are always welcome :) Please fix the awkward English
 ## Intro
 This repository will guide you to install macOS bigsur on your razerblade.
@@ -10,7 +10,7 @@ This repository will guide you to install macOS bigsur on your razerblade.
 EFI folder based on [steelbrain's hackintosh guide](https://github.com/steelbrain/razer-blade-17-pro-2020-hackintosh) ;)<br>
 (I modified little bit that repository for bigsur)
 
-sorry for awkard English! If you good at Korean, plz read korean guide instead (작성중이니까 기다려주세여) lol
+sorry for awkward English! If you are good at Korean, plz read korean guide instead (작성중이니까 기다려주세여) lol
 
 ## Supplies
 * your RazerBlade 2020 (It doesn't matter if it's base or advanced or pro)
