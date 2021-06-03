@@ -1,7 +1,7 @@
-# Razerblade2020-Hackintosh
+# Razerblade2020-Hackintosh [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzlfn%2FRazerblade2020-Hackintosh%2Fedit%2Fmain%2FREADME.md&count_bg=%2347A400&title_bg=%23171717&icon=apple.svg&icon_color=%23E7E7E7&title=Hello%21&edge_flat=true)](https://hits.seeyoufarm.com)
 ![BigSur](BigSur.png)
 
-Hackintosh guide for Razerblade 2020 model (includes base, advanced, pro)
+Hackintosh guide for Razerblade 2020 model (includes base, advanced, pro)<br>
 If you have question, plz open issue.
 
 ## intro
