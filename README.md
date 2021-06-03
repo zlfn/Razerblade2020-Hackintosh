@@ -29,7 +29,7 @@ Mount USB drive's EFI partiton via follow [this guide](https://hologos.github.io
 
 Add EFI folder on this repository to your USB drive's EFI partition
 
-## modify BIOS, replace SSD
+## modify BIOS, add SSD
 If you plug your macOS boot USB and boot your laptop with it, the macOS installer will not work.
 
 To fix this, we have to change DVMT settings on BIOS setup.<br> 
