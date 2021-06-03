@@ -1,4 +1,5 @@
 # Razerblade2020-Hackintosh
+![BigSur](BigSur.png)
 Hackintosh guide for Razerblade 2020 model (includes base, advanced, pro)
 If you have question, plz open issue.
 
