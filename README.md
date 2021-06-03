@@ -12,6 +12,21 @@ EFI folder based on [steelbrain's hackintosh guide](https://github.com/steelbrai
 
 sorry for awkward English! If you are good at Korean, plz read korean guide instead (작성중이니까 기다려주세여) lol
 
+## What will work
+* 144Hz display (I don't know about 300Hz but I think it will work)
+* iGPU (Intel UHD Graphics 630)
+* Audio
+* Battery Check
+* Touch Pad
+* USB port
+* Bluetooth
+* Wifi
+* Sidecar and Airplay
+* iCloud
+## What will not work
+* Sleep works but not works well
+* dGPU (ex. 2070 Max-q)
+* Airdrop
 ## Supplies
 * your RazerBlade 2020 (It doesn't matter if it's base or advanced or pro)
 * USB flash drive (16GB or more, represent 32GB)
@@ -55,3 +70,10 @@ Plug your USB drive, select Big Sur installer, and install macOS.
 Your PC can reboot several times when installing.
 
 And.. Done! Enjoy your new MacBlade! :)
+
+## Set GRUB for multi boot
+If you want multibooting macOS and Linux(and Windows) and yout dont want to use OpenCore<br>
+You can set GRUB on Linux for it.
+[Reddit will help](https://www.reddit.com/r/hackintosh/comments/kdp0ua/opencore_and_grub/)
+
+I'll write guide for it someday.
