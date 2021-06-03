@@ -2,7 +2,7 @@
 ![BigSur](BigSur.png)
 
 Hackintosh guide for Razerblade 2020 model (includes base, advanced, pro)<br>
-If you have question, plz open issue.<br>
+If you have question, You can open the issue. (But I'm beginner so It's not very helpful)<br>
 And content additions and corrections are always welcome :) Please fix the awkward English
 ## Intro
 This repository will guide you to install macOS bigsur on your razerblade.
@@ -45,7 +45,7 @@ Download original BIOS ROM file from RazerUpdater or read your BIOS with AFUWING
 Modify your BIOS with AMIBCP(v5.02 recommended) to unlock DVMT option.<br>
 And flash your modified BIOS with CH341a hardware programmer. [This will help you](http://forum.notebookreview.com/threads/razer-bios-mods-potential-to-unlock-all-hidden-options.830993/page-26)
 
-Also, you should add SSD on blank M.2 slot. macOS will not intall on RazerBlade's PM981.
+Also, you should add SSD on blank M.2 slot. macOS will not install on RazerBlade's PM981.
 
 ## Install macOS
 Enter your BIOS setup. change DVMT pre-alloc to 64MB, and change DVMT max-alloc to MAX.
