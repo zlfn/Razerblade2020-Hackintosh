@@ -76,4 +76,4 @@ If you want multibooting macOS and Linux(and Windows) and yout dont want to use 
 You can set GRUB on Linux for it.
 [Reddit will help](https://www.reddit.com/r/hackintosh/comments/kdp0ua/opencore_and_grub/)
 
-I'll write guide for it someday.
+I'll write guide for it someday later.
