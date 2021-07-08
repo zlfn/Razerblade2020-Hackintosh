@@ -34,21 +34,21 @@ EFI 폴더는 이걸 기반으로 구성했습니다 -> [steelbrain's hackintosh
 * 상당한 인내심과 용기
 
 ## VMware로 설치USB만들기
-Follow [this guide](https://www.geekrar.com/install-macos-catalina-on-vmware-on-windows-pc/) to install macOS on VMware.
+[이 가이드](https://www.geekrar.com/install-macos-catalina-on-vmware-on-windows-pc/)를 따라 VMware에 macOS를 설치해주세요.
 
-Until downloading and Installing VMware and macOS, you have to make EFI partition on your USB drive. Follow [this](https://superuser.com/questions/1308324/create-efi-partition-before-installing-windows-10)
+VMware랑 macOS 설치하는 동안 설치 USB에 EFI파티션을 만들어야 합니다. [이거](https://superuser.com/questions/1308324/create-efi-partition-before-installing-windows-10)를 따라하세요.
 
-Open macOS on VMware, format your USB drive to APFS and make boot USB with [this guide](https://support.apple.com/ko-kr/HT201372)
+VMware에서 macOS를 열고, USB드라이브의 남은 공간을 APFS 형식으로 포멧한후, 부팅디스크를 만드세요. [이거](https://support.apple.com/ko-kr/HT201372) 따라하세요.
 
-Mount USB drive's EFI partiton via follow [this guide](https://hologos.github.io/how-to-mount-efi-from-command-line-terminal/)
+macOS에서 [이거](https://hologos.github.io/how-to-mount-efi-from-command-line-terminal/)를 따라서 미리 만들었던 USB의 EFI파티션을 마운트 하세요.
 
-Add EFI folder on this repository to your USB drive's EFI partition
+이 레포지토리에 있는 EFI 폴더를 USB의 EFI 파티션에 붙혀넣기 하세요.
 
 ## BIOS 수정하고 SSD 꼽기
-If you plug your macOS boot USB and boot your laptop with it, the macOS installer will not work.
+지금 부팅 USB를 꼽고 노트북을 켜면 macOS 설치가 아마 안될겁니다.
 
-To fix this, we have to change DVMT settings on BIOS setup.<br> 
-But Razer locked that so we have to modify BIOS.
+이걸 고치려면, 우리는 BIOS설정에서 DVMT설정을 바꿔야해요.<br>
+하지만 레이저는 DVMT설정을 막아놔서 우리는 BIOS를 수정해야합니다.
 
 Unfortunatly, Razer locked BIOS on RazerBlade 2020 version, so you cant flash modified BIOS with AFUWINGUI.
 
