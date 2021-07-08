@@ -10,7 +10,7 @@ This repository will guide you to install macOS bigsur on your razerblade.
 EFI folder based on [steelbrain's hackintosh guide](https://github.com/steelbrain/razer-blade-17-pro-2020-hackintosh) ;)<br>
 (I modified little bit that repository for bigsur)
 
-sorry for awkward English! If you are good at Korean, plz read [korean guide](README_KR.md) instead (작성중이니까 기다려주세여) lol
+sorry for awkward English! If you are good at Korean, plz read [Korean guide](README_KR.md) instead (작성중이니까 기다려주세여) lol
 
 ## What will work
 * 144Hz display (I don't know about 300Hz but I think it will work)
@@ -29,7 +29,7 @@ sorry for awkward English! If you are good at Korean, plz read [korean guide](RE
 * Airdrop
 ## Supplies
 * your RazerBlade 2020 (It doesn't matter if it's base or advanced or pro)
-* USB flash drive (16GB or more, represent 32GB)
+* USB flash drive (16GB or more, recommend 32GB)
 * CH341a hardware programmer
 * SOP8 clip for CH341a
 * SSD (not PM981 or PM991)
