@@ -58,7 +58,7 @@ So you have to flash modified BIOS with CH341a and SOP8 clip.
 
 Download original BIOS ROM file from RazerUpdater or read your BIOS with AFUWINGUI<br>
 Modify your BIOS with AMIBCP(v5.02 recommended) to unlock DVMT option.<br>
-And flash your modified BIOS with CH341a hardware programmer. [This will help you](http://forum.notebookreview.com/threads/razer-bios-mods-potential-to-unlock-all-hidden-options.830993/page-26)
+And flash your modified BIOS with CH341a hardware programmer. [This will help you](http://forum.notebookreview.com/threads/razer-bios-mods-potential-to-unlock-all-hidden-options.830993/page-26) <-- It has erased. I will find another guide sometime
 
 Also, you should add SSD on blank M.2 slot. macOS will not install on RazerBlade's PM981.
 
