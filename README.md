@@ -4,13 +4,17 @@
 Hackintosh guide for Razerblade 2020 model (includes base, advanced, pro)<br>
 If you have a question, You can open the issue. (But I'm a beginner so It's not very helpful)<br>
 And content additions and corrections are always welcome :) Please fix the awkward English
+
+**Currently I no longer use a hackintosh, and I can't vouch for this setup to work with the latest Opencore.**<br>
+**Also, many of the guides I referenced have been erased, so it may be difficult to follow these guides anymore.**<br>
+You can find other guide like https://dortania.github.io/OpenCore-Install-Guide/<br>
+Works pretty well with the Razer Blade, except for the fact that you have to flash the bios to adjust the DVMT settings.
+
 ## Intro
 This repository will guide you to install macOS bigsur on your razerblade.
 
 EFI folder based on [steelbrain's hackintosh guide](https://github.com/steelbrain/razer-blade-17-pro-2020-hackintosh) ;)<br>
 (I modified little bit that repository for bigsur)
-
-sorry for awkward English! If you are good at Korean, plz read [Korean guide](README_KR.md) instead (작성중이니까 기다려주세여) lol
 
 ## What will work
 * 144Hz display (I don't know about 300Hz but I think it will work)
@@ -76,4 +80,5 @@ If you want multibooting macOS and Linux(and Windows) and yout dont want to use 
 You can set GRUB on Linux for it.
 [Reddit will help](https://www.reddit.com/r/hackintosh/comments/kdp0ua/opencore_and_grub/)
 
-I'll write guide for it someday later.
+You have to write boot sequence script for grub.
+It's not much different from writing the boot sequence for another OS like Windows.
